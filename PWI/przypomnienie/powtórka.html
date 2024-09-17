@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Opcje</p>
+    <p><input type="number" id="size" name="sz">%</p>
+    <select name="cat" id="cat">
+        <option value="italic">kursywa</option>
+        <option value="none">normalne</option>
+
+    </select>
+    <input type="color" id="clr">
+    <button id="btn" onclick="tekst()">btn</button>
+    <p id="txt">TEKST</p>
+    
+    
+
+    <script>
+        
+
+        
+        function tekst(){
+            let rozmiar = size.value + '%';
+            let kursywa = cat.value;
+            let kolor = clr.value;
+            txt.style.fontSize = rozmiar;
+            txt.style.fontStyle = kursywa;
+            txt.style.color = kolor;
+        }
+
+    </script>
+</body>
+</html>
