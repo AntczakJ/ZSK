@@ -1,0 +1,14 @@
+C:\Users\Jan\Desktop\2_dziedziczenie\bin\Debug\net8.0\2_dziedziczenie.exe
+C:\Users\Jan\Desktop\2_dziedziczenie\bin\Debug\net8.0\2_dziedziczenie.deps.json
+C:\Users\Jan\Desktop\2_dziedziczenie\bin\Debug\net8.0\2_dziedziczenie.runtimeconfig.json
+C:\Users\Jan\Desktop\2_dziedziczenie\bin\Debug\net8.0\2_dziedziczenie.dll
+C:\Users\Jan\Desktop\2_dziedziczenie\bin\Debug\net8.0\2_dziedziczenie.pdb
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\2_dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\2_dziedziczenie.AssemblyInfoInputs.cache
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\2_dziedziczenie.AssemblyInfo.cs
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\2_dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\2_dziedziczenie.dll
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\refint\2_dziedziczenie.dll
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\2_dziedziczenie.pdb
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\2_dziedziczenie.genruntimeconfig.cache
+C:\Users\Jan\Desktop\2_dziedziczenie\obj\Debug\net8.0\ref\2_dziedziczenie.dll
