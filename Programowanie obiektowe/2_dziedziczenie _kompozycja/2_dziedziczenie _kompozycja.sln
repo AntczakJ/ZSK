@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_dziedziczenie _kompozycja", "2_dziedziczenie _kompozycja.csproj", "{47152EE3-B97D-44C3-91B8-DE4A6C897807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47152EE3-B97D-44C3-91B8-DE4A6C897807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47152EE3-B97D-44C3-91B8-DE4A6C897807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47152EE3-B97D-44C3-91B8-DE4A6C897807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47152EE3-B97D-44C3-91B8-DE4A6C897807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C013B628-178D-4223-A90A-2A5B099BC16E}
+	EndGlobalSection
+EndGlobal

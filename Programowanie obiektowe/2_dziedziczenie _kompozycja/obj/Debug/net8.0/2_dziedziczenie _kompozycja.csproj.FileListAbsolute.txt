@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\bin\Debug\net8.0\2_dziedziczenie _kompozycja.exe
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\bin\Debug\net8.0\2_dziedziczenie _kompozycja.deps.json
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\bin\Debug\net8.0\2_dziedziczenie _kompozycja.runtimeconfig.json
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\bin\Debug\net8.0\2_dziedziczenie _kompozycja.dll
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\bin\Debug\net8.0\2_dziedziczenie _kompozycja.pdb
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\2_dziedziczenie _kompozycja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\2_dziedziczenie _kompozycja.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\2_dziedziczenie _kompozycja.AssemblyInfo.cs
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\2_dziedziczenie _kompozycja.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\2_dziedziczenie _kompozycja.dll
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\refint\2_dziedziczenie _kompozycja.dll
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\2_dziedziczenie _kompozycja.pdb
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\2_dziedziczenie _kompozycja.genruntimeconfig.cache
+C:\Users\student\Desktop\2_dziedziczenie _kompozycja\obj\Debug\net8.0\ref\2_dziedziczenie _kompozycja.dll
