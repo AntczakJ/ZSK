@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Projekcik_zdarzonka\bin\Debug\net8.0\Projekcik_zdarzonka.exe
+C:\Users\student\Desktop\Projekcik_zdarzonka\bin\Debug\net8.0\Projekcik_zdarzonka.deps.json
+C:\Users\student\Desktop\Projekcik_zdarzonka\bin\Debug\net8.0\Projekcik_zdarzonka.runtimeconfig.json
+C:\Users\student\Desktop\Projekcik_zdarzonka\bin\Debug\net8.0\Projekcik_zdarzonka.dll
+C:\Users\student\Desktop\Projekcik_zdarzonka\bin\Debug\net8.0\Projekcik_zdarzonka.pdb
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\Projekcik_zdarzonka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\Projekcik_zdarzonka.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\Projekcik_zdarzonka.AssemblyInfo.cs
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\Projekcik_zdarzonka.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\Projekcik_zdarzonka.dll
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\refint\Projekcik_zdarzonka.dll
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\Projekcik_zdarzonka.pdb
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\Projekcik_zdarzonka.genruntimeconfig.cache
+C:\Users\student\Desktop\Projekcik_zdarzonka\obj\Debug\net8.0\ref\Projekcik_zdarzonka.dll
